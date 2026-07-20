@@ -70,7 +70,6 @@ I'm a **Full Stack JavaScript Developer** and **AI Engineer** with **3+ years of
 
 ## 📊 My Recent Work
 
-### 🏨 Ontime Booking Platform _(Current)_
 **Full Stack Web & Mobile Application**
 
 - Built complete booking platform with **real-time availability** and **dynamic pricing**
@@ -81,7 +80,6 @@ I'm a **Full Stack JavaScript Developer** and **AI Engineer** with **3+ years of
 
 **Key Metrics:** ⚡ 3s page load | 🔒 100% uptime | 📱 iOS/Android
 
-### 💼 Nashama Technology Platform _(January - February 2025)_
 **Enterprise Full-Stack Application**
 
 - Built full-stack apps using **Next.js, React, TypeScript, MongoDB**
