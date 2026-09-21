@@ -12,7 +12,7 @@
 
 I'm a **Full Stack JavaScript Developer** and **AI Engineer** with **3+ years of experience** building scalable, production-ready web and mobile applications. I specialize in crafting elegant solutions using modern technologies—from responsive React frontends to robust Node.js backends, with a strong focus on AI-powered automation.
 
-**Currently:** Building next-gen applications at **Ontime Company**  
+**Currently:** Building next-gen applications at **Nouzl Company**  
 **Location:** 📍 Giza, Egypt  
 **Passion:** Writing clean code, shipping fast, solving problems with AI
 
